@@ -1,1 +1,5 @@
-# CV
+- 👋 Hi, I’m @NicolasA02
+- 👀 I’m interested in Information Technology, Networking and Programming
+- 🌱 I’m currently in school learning about Computer Support & Networks!
+- 💞️ I’m looking to collaborate on future projects with a great team!
+- 📫 I can be reached by email: Nicolasassad87@yahoo.com
